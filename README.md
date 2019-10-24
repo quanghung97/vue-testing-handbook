@@ -1,4 +1,4 @@
-[English](https://github.com/lmiller1990/vue-testing-handbook#vue-testing-handbook) | [日本語](https://github.com/lmiller1990/vue-testing-handbook#vue-testing-handbook-1) | [Русский](https://github.com/webistomin/vue-testing-handbook/blob/master/README.ru.md)
+[English](https://github.com/lmiller1990/vue-testing-handbook#vue-testing-handbook) | [日本語](https://github.com/lmiller1990/vue-testing-handbook#vue-testing-handbook-1) | [Русский](https://github.com/webistomin/vue-testing-handbook/blob/master/README.ru.md) | [Vietnamese](https://github.com/quanghung97/vue-testing-handbook/blob/translate_vietnamese/README.vi.md)
 
 ## Vue Testing Handbook
 
@@ -10,7 +10,7 @@ This is a collection of short, focused examples on how to test Vue components. I
 
 ## Languages
 
-The handbook is written in English. We have a Russian and Japanese translation in progress. Please make an issue if you would like to translate the book into your own language!
+The handbook is written in English. We have a Russian, Japanese and Vietnamese translation in progress. Please make an issue if you would like to translate the book into your own language!
 
 ## Contributing 
 

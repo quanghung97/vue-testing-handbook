@@ -23,6 +23,10 @@ module.exports = {
       lang: 'ru-RU',
       title: 'Руководство по тестированию Vue-компонентов',
     },
+    '/vi/': {
+      lang: 'vi-VN',
+      title: 'Cẩm nang kiểm thử với Vue',
+    },
   },
   themeConfig: {
     repo: 'lmiller1990/vue-testing-handbook',
@@ -104,6 +108,32 @@ module.exports = {
           ['/ru/vuex-in-components-mutations-and-actions', 'Vuex в компонентах - мутации и действия'],
           ['/ru/jest-mocking-modules', 'Jest - мокаем модули'],
           ['/ru/vue-router', 'Vue Router'],
+        ]
+      },
+      '/vi/': {
+        label: 'Tiếng Việt',
+        selectText: 'Ngôn ngữ',
+        lastUpdated: 'Lần cập nhật cuối cùng',
+        editLinkText: 'Chỉnh sửa trang trên github',
+        sidebar: [
+          ['/vi/', 'Chào Mừng'],
+          ['/vi/setting-up-for-tdd', 'Thiết lập cùng với TDD'],
+          ['/vi/rendering-a-component', 'Biểu diễn component'],
+          ['/vi/components-with-props', 'Props trong components'],
+          ['/vi/computed-properties', 'Tính chất của computed'],
+          ['/vi/simulating-user-input', 'Mô phỏng người dùng nhập vào'],
+          ['/vi/testing-emitted-events', 'Kiểm thử với sự kiện emit'],
+          ['/vi/mocking-global-objects', 'Mock các đối tượng toàn cục'],
+          ['/vi/stubbing-components', 'Stub các components'],
+          ['/vi/finding-elements-and-components', 'Tìm các yếu tố và components'],
+          ['/vi/testing-vuex', 'Kiểm thử Vuex'],
+          ['/vi/vuex-mutations', 'Vuex - Mutations'],
+          ['/vi/vuex-actions', 'Vuex - Actions'],
+          ['/vi/vuex-getters', 'Vuex - Getters'],
+          ['/vi/vuex-in-components', 'Vuex trong components'],
+          ['/vi/vuex-in-components-mutations-and-actions', 'Vuex trong components muattions và các actions'],
+          ['/vi/jest-mocking-modules', 'Mocking các modules với Jest'],
+          ['/vi/vue-router', 'Vue Router'],
         ]
       }
     }
